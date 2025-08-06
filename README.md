@@ -21,3 +21,7 @@ Well, here, we're going to write them down so we don't forget! Anything that mig
 ### Windows
 
 [Format a hard drive using the command line](./os/windows/format%20a%20hard%20drive%20using%20the%20command%20line/README.md)
+
+### Markdown
+
+[Markdown formatting cheatsheet](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
