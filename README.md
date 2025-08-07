@@ -25,3 +25,7 @@ Well, here, we're going to write them down so we don't forget! Anything that mig
 ### Markdown
 
 [Markdown formatting cheatsheet](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+### Git
+
+[How to set global Git user name and email](./software/git/how%20to%20set%20global%20git%20user%20name%20and%20email/README.md)
