@@ -21,6 +21,7 @@ Well, here, we're going to write them down so we don't forget! Anything that mig
 ### Windows
 
 [Format a hard drive using the command line](./os/windows/format%20a%20hard%20drive%20using%20the%20command%20line/README.md)
+[Extract Windows Spotlight Lock Screen Wallpapers](./os/windows/Extract%20Windows%20Spotlight%20Lock%20Screen%20Wallpapers/README.md)
 
 ### Markdown
 
