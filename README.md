@@ -20,13 +20,13 @@ Well, here, we're going to write them down so we don't forget! Anything that mig
 
 ### Windows
 
-[Format a hard drive using the command line](./os/windows/format%20a%20hard%20drive%20using%20the%20command%20line/README.md)
-[Extract Windows Spotlight Lock Screen Wallpapers](./os/windows/Extract%20Windows%20Spotlight%20Lock%20Screen%20Wallpapers/README.md)
+- [Format a hard drive using the command line](./os/windows/format%20a%20hard%20drive%20using%20the%20command%20line/README.md)
+- [Extract Windows Spotlight Lock Screen Wallpapers](./os/windows/Extract%20Windows%20Spotlight%20Lock%20Screen%20Wallpapers/README.md)
 
 ### Markdown
 
-[Markdown formatting cheatsheet](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Markdown formatting cheatsheet](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ### Git
 
-[How to set global Git user name and email](./software/git/how%20to%20set%20global%20git%20user%20name%20and%20email/README.md)
+- [How to set global Git user name and email](./software/git/how%20to%20set%20global%20git%20user%20name%20and%20email/README.md)
